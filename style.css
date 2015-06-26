@@ -1,0 +1,142 @@
+#header h1:hover, h2:hover, h3:hover{
+	font-size:200%;
+}
+
+img{
+	border-radius:10px;
+	margin-left: 10px;
+	box-shadow: 10px 10px 5px #888888;
+	margin-bottom: 10px;
+	margin-top:10px;
+}
+
+#firstphoto:hover{	
+	 transform:translateX(50px);
+	 transition-duration: 1.0s;
+
+}
+
+
+.toggle{
+
+	background-color: white;
+}
+
+#header{
+	background-color:#F4EBC3;
+	border-radius:10px;
+	position:relative;
+	height:260px;
+	width:100%;
+	font-family: cursive;
+	font-size: 16px;
+
+}
+
+#header p{
+	clear:both;
+	margin-left:5px;
+}
+
+#title{
+	float:left;
+	margin-left: 15px;
+	font-size: 24px;
+	font-family:cursive;
+}
+
+#name{
+	float:right;
+	margin-right: 10px; 
+	font-size: 24px;
+	font-family:cursive;
+}
+
+#start {
+	background-color:#B9D7D9;
+	border-radius:10px;
+	position:relative;
+	height:140px;
+	width:100%;
+	font-family:cursive;
+	font-size: 16px;
+	
+
+}
+
+#start h1{
+	font-size:24px;
+	margin-left: 10px;
+	padding-top: 10px;
+	
+}
+
+#start p{
+	margin-left:10px;
+
+}
+
+.ingred{
+	background-color:#D3D3D3;
+	border-radius:10px;
+	position:relative;
+	height:435px;
+	width:100%;
+	font-size:16px;
+	font-family:cursive;
+
+}
+
+.ingred h3{
+	margin-left: 10px;
+	padding-top: 10px;
+}
+
+.ingred p{
+	margin-left:10px;
+}
+
+.meth{
+	background-color:#B9D7D9;
+	border-radius:10px;
+	position: relative;
+	font-size: 16px;
+	font-family:cursive;
+	height:1540px;
+	width:100%;
+	
+}
+
+.meth h3{
+	margin-left: 10px;
+	padding-top: 10px;
+}
+
+#crop{ 
+	position: relative;
+	float: left;
+	margin-top: 10px;
+	width: 50%;
+	height: 400px;
+	margin-bottom: 10px;
+}
+
+#crop:hover{
+	 transform:translateX(350px);
+	 transition-duration: 1.0s;
+}
+
+#footer{
+	position: relative;
+	float:right;
+	margin-top: -410px;
+	width:66%;
+	height:200px;
+	border-radius:10px;
+	background-color:#F4EBC3;
+}
+
+#footer p{
+	margin-left:15px;
+}
+
